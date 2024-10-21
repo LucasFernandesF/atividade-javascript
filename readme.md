@@ -3,17 +3,19 @@
 ## Enteder o funcionamento do javascript dos sites
 
 - **Site 1: [Exemplo1.com](http://exemplo1.com)**
-  - Área 1: E-commerce
-    - O JavaScript pode estar atuando na manipulação de carrinhos de compras, exibindo produtos em tempo real e atualizando preços com base na interação do usuário.
-    - Estruturas do JS: 
-      - Funções assíncronas (para chamadas de API)
-      - Manipulação do DOM (para atualizar a interface do usuário)
-      - Eventos (para capturar ações do usuário)
-  - Área 2: Blog
-    - O JS pode ser utilizado para implementar comentários em tempo real e recomendações personalizadas de artigos.
-    - Estruturas do JS:
-      - AJAX (para carregar comentários sem recarregar a página)
-      - Armazenamento local (para salvar preferências do usuário)
+- 
+  ![image](https://github.com/user-attachments/assets/20e77d71-dd4b-442b-bc5b-60a6c0e94701)
+
+  - Área 1: Carrinho de compra da amazon
+    - O JavaScript esta atuando na manipulação de carrinhos de compras, exibindo produtos em tempo real e atualizando os itens do carrinho e o total de todas as suas compras.
+    Para fazer isso é utilizado funções assíncronas para não parar o funcionamento para o usario, podendo ser para chamar apis, ou realizar manipulações no DOM
+
+![image](https://github.com/user-attachments/assets/bb48ad06-0c06-43ca-80b3-427ca70d688f)
+
+  - Área 2: 
+    - Atuando para puxar o formulario de login/cadastro se não estiver logado ou permitindo colocar o numero do cep é puxando para fazer o calculo de frete das lojas.
+    Para fazer isso utilizou a chamada para apis, e utilizou o armazemento local para puxar as preferencias do usuario se já estiver logado
+
 
 - **Site 2: [Exemplo2.com](http://exemplo2.com)**
   - Área 1: Redes sociais
