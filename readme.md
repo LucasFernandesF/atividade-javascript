@@ -2,8 +2,7 @@
 
 ## Enteder o funcionamento do javascript dos sites
 
-- **Site 1: [Exemplo1.com](http://exemplo1.com)**
-- 
+ **Site 1: [Amazon](https://www.amazon.com.br/)** 
   ![image](https://github.com/user-attachments/assets/20e77d71-dd4b-442b-bc5b-60a6c0e94701)
 
   - Área 1: Carrinho de compra da amazon
