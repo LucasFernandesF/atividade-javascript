@@ -18,14 +18,13 @@
   ![image](https://github.com/user-attachments/assets/9226b0d3-7d22-4494-9a03-f23de12f80da)
 
 - Área 1: Explorar Instagram
-    - O JavaScript pode ser responsável pela atualização dinâmica do explorar e pela interação do usuário com postagens.
-    - Utilizando WebSockets para comunicar em tempo real, processar as informações e utilizando algum framework para renderizar rapidamente e atualizar o explorar de acordo com a interação do usuário.
+  - O JavaScript pode ser responsável pela atualização dinâmica do explorar e pela interação do usuário com postagens.
+  - Utilizando WebSockets para comunicar em tempo real, processar as informações e utilizando algum framework para renderizar rapidamente e atualizar o explorar de acordo com a interação do usuário.
 
 ![image](https://github.com/user-attachments/assets/37b2d502-7c61-4b4c-b7f9-7a1475cb5f7f)
-
-  - Área 2: Funcionamento do vídeo
-    - O JS pode estar atuando na reprodução de vídeos, controles personalizados e na interação do usuário com os Reels.
-    - Utilizando provavelmente APIs de mídia e com certeza utilizando a manipulação do DOM para expandir o vídeo quando clicado, ou a recomendação dinâmica do rolamento dos Reels e também para criar controles personalizados.
+- Área 2: Funcionamento do vídeo
+  - O JS pode estar atuando na reprodução de vídeos, controles personalizados e na interação do usuário com os Reels.
+  - Utilizando provavelmente APIs de mídia e com certeza utilizando a manipulação do DOM para expandir o vídeo quando clicado, ou a recomendação dinâmica do rolamento dos Reels e também para criar controles personalizados.
 
 
 - **Site 3: [Exemplo3.com](http://exemplo3.com)**
