@@ -17,7 +17,7 @@
 - **Site 2: [Instagram](https://www.instagram.com/explore/)**
   ![image](https://github.com/user-attachments/assets/9226b0d3-7d22-4494-9a03-f23de12f80da)
 
-  - Área 1: Explorar Instagram
+- Área 1: Explorar Instagram
     - O JavaScript pode ser responsável pela atualização dinâmica do explorar e pela interação do usuário com postagens.
     - Utilizando WebSockets para comunicar em tempo real, processar as informações e utilizando algum framework para renderizar rapidamente e atualizar o explorar de acordo com a interação do usuário.
 
